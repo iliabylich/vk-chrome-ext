@@ -1,0 +1,15 @@
+{
+  "name": "VK audio control - Client",
+  "version": "0.1",
+  "manifest_version": 2,
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+    "tabs",
+    "https://*.vk.com/",
+    "nativeMessaging"
+  ]
+}

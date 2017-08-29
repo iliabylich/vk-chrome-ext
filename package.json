@@ -1,0 +1,6 @@
+{
+  "name": "VK-control-native-communication",
+  "version": "0.1.0",
+  "author": "Ilya Bylich",
+  "description": "VK toolkit for managing audio player over HTTP"
+}

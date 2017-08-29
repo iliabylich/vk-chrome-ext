@@ -1,0 +1,9 @@
+{
+  "name": "com.vk.control",
+  "description": "VK Control Host",
+  "path": "/Users/ilya/Work/chrome-native-messaging/host/my_host.js",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://hfpaooioianejmnmgokjdjdaapigbjng/"
+  ]
+}
